@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: SES-Mailer
+Version: 0.13.0
+Summary: A simple module to send email via AWS SES
+Home-page: http://github.com/mardix/ses-mailer/
+Author: Mardix
+Author-email: mardix@github.com
+License: MIT
+Download-URL: http://github.com/mardix/ses-mailer/tarball/master
+Description: 
+        SES-Mailer
+        
+        A simple module to send email via AWS SES
+        
+        It also allow you to use templates to send email
+        
+        
+Keywords: email,flask,aws ses,amazon,ses,mailer,jinja2,template email
+Platform: any
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

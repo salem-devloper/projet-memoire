@@ -1,0 +1,10 @@
+ses_mailer.py
+setup.cfg
+setup.py
+SES_Mailer.egg-info/PKG-INFO
+SES_Mailer.egg-info/SOURCES.txt
+SES_Mailer.egg-info/dependency_links.txt
+SES_Mailer.egg-info/not-zip-safe
+SES_Mailer.egg-info/pbr.json
+SES_Mailer.egg-info/requires.txt
+SES_Mailer.egg-info/top_level.txt

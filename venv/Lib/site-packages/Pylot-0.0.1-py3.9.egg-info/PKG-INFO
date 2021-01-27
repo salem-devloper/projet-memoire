@@ -1,0 +1,36 @@
+Metadata-Version: 1.1
+Name: Pylot
+Version: 0.0.1
+Summary: Pylot is a Flask extension that adds structure and map your views and templates together for rapid application development
+Home-page: https://github.com/mardix/flask-pilot/
+Author: Mardix
+Author-email: mardix@github.com
+License: MIT
+Download-URL: http://github.com/mardix/flask-pilot/tarball/master
+Description: 
+        Pylot
+        
+        Pylot is a Flask extension that adds structure to both your views and
+        templates, by mapping them to each other to provide a rapid application development framework.
+        The extension also comes with Flask-Classy, Flask-Assets, Flask-Mail,
+        JQuery 2.x, Bootstrap 3.x, Font-Awesome, Bootswatch templates.
+        The extension also provides pre-made templates for error pages and macros.
+        
+        https://github.com/mardix/flask-pilot
+        
+        
+Keywords: flask,templates,views,classy,pilot,framework,mvc,blueprint
+Platform: any
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

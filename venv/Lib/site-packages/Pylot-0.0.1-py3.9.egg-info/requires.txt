@@ -1,0 +1,13 @@
+Flask==0.10.1
+Flask-Classy==0.6.10
+Flask-Assets==0.10
+Active-SQLAlchemy==0.3.2
+flask-recaptcha==0.3
+passlib==1.6.2
+python-slugify==0.1.0
+flask-login==0.2.11
+flask-kvsession==0.6.1
+humanize==0.5.1
+flask-s3==0.1.7
+redis==2.9.1
+ses-mailer

@@ -1,0 +1,3 @@
+[console_scripts]
+pylot = pylot.cmd:main
+
